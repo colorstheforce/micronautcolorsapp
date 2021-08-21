@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.android.micronautcolors
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, assertj, cache-infinispan, cassandra, coherence, coherence-session, github-workflow-graal-docker-registry, gradle, graphql, hamcrest, http-client, java, java-application, jdbc-hikari, junit, logback, mockito, mongo-reactive, multi-tenancy, mysql, netty-server, openapi, oracle-cloud-sdk, properties, readme, redis-lettuce, shade, sql-jdbi, testcontainers]
